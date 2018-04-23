@@ -17,7 +17,7 @@ STATE_COUNT_THRESHOLD = 3       # repetitive traffic light state to take action
 SLOW_DOWN_DISTANCE    = 120     # The distance from the red traffic light to start to slow down
 
 # when the Flag is set the planner gets the traffic data directly from the Simulator
-SIMULATOR_TRAFFIC_ENABLED = True      # Toggle True or False
+SIMULATOR_TRAFFIC_ENABLED = False      # Toggle True or False
 
 PUBLISH_RATE = 10               # 10Hz - loop rate
 
